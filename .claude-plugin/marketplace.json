@@ -1,0 +1,5 @@
+{
+  "name": "prompt-master-marketplace",
+  "owner": { "name": "leventgorez" },
+  "plugins": [{ "name": "prompt-master", "source": "./prompt-master" }]
+}

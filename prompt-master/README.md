@@ -17,4 +17,14 @@ It then rewrites your prompt as **Role / Task / Context / Format / Quality check
 
 ## Install
 
-Copy this folder into a plugin folder Claude Code loads (for example with `claude --plugin-dir ./prompt-master`).
+In a terminal Claude Code session:
+
+```
+/plugin install prompt-master --marketplace leventgorez/Repository-1
+```
+
+Answer `y` to add the marketplace, then choose the **user** scope so it works in all your projects.
+
+From a shell: `claude plugin install prompt-master --marketplace leventgorez/Repository-1`
+
+In the Claude desktop app (Code tab): click **+** next to the prompt box, then **Plugins**, **Add marketplace**, enter `leventgorez/Repository-1`, then **Add plugin**.
