@@ -1,0 +1,6 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "Improves your rough prompt (asks up to 3 quick questions, then rewrites it) before you send it yourself.",
+  "types": "./types/index.d.ts"
+}
